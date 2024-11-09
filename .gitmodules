@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/litmusverse/litmusverse.r-universe.dev
 	branch = HEAD
+[submodule "license-testing"]
+	path = license-testing
+	url = https://github.com/litmusverse/license-testing
+[submodule "minimal"]
+	path = minimal
+	url = https://github.com/litmusverse/minimal
